@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishal-43
-- 👀 I’m interested in devloping exciting codes in java,python amd c
+- 👀 I’m interested in devloping exciting codes in java,python and c
 - 🌱 I’m currently pursuing engineering in information technology
 - 💞️ I’m looking to collaborate on exciting projects in java and python
 - 📫 How to reach me vishalsodmise@gmail.com
