@@ -1,6 +1,5 @@
 ## Hi there! 👋
 
-# Hi there! 👋
 
 I'm **Vishal Sodmise** — an IT Engineering student and passionate software developer. 🚀
 
@@ -10,7 +9,6 @@ Tagline: Turning ideas into working apps — one commit at a time. ✨
 
 ## About Me
 
-## About Me
 
 - Name: **Vishal Sodmise**
 - Current: Pursuing IT Engineering at Padmabhushan Vasantdada Patil College of Engineering and Visual Arts 🎓
@@ -26,8 +24,6 @@ Quick notes:
 ## Skills & Technologies
 
 dart,flutter,javascript,js,typescript,ts,python,py,html,css,nodejs,nextjs,vercel,docker,git,github,npm
-
-## Top Projects
 
 ## Top Projects
 
@@ -63,9 +59,9 @@ Notes:
 - Projects above are highlighted based on activity, homepage/demo availability and repo size/stars.
 - Many projects are actively developed — check branches and commits for the latest work. 🔧
 
-## GitHub Stats
 
-## GitHub Stats 📊
+
+## GitHub Stats 
 
 - Public repositories: **33**
 - Followers: **5**
@@ -85,8 +81,6 @@ Feel free to explore my repositories and contributions — I'm active and welcom
 
 ## Connect with Me
 
-## Connect with Me 🤝
-
 - GitHub: [Vishal-43](https://github.com/Vishal-43) 🔗
 - Instagram: [@l_e_g_e_n_d_43](https://www.instagram.com/l_e_g_e_n_d_43/profilecard/?igsh=MTI5ZWF0MnBhYXYxZw==) 📸
 - Portfolio & demos: https://VishalSodmise.vercel.app 🌐
@@ -100,15 +94,12 @@ If you'd like me to add LinkedIn or email, I can update the profile README with 
 
 ## Currently Working On / Learning
 
-## Currently
-
 - Actively developing **smart-attendece-system** (Flutter / Dart) — frequent updates and improvements. 🔧
 
 Want to collaborate? Check my active repos or open an issue — I welcome suggestions and contributions! 🙌
 
 ## Recent Activity
 
-## Recent Activity ⚡
 
 Here are the latest pushes and updates from my GitHub activity feed:
 
