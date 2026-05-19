@@ -94,7 +94,7 @@ If you'd like me to add LinkedIn or email, I can update the profile README with 
 
 ## Currently Working On / Learning
 
-- Actively developing **smart-attendece-system** (Flutter / Dart) — frequent updates and improvements. 🔧
+Searching for new more innovative ideas. 
 
 Want to collaborate? Check my active repos or open an issue — I welcome suggestions and contributions! 🙌
 
