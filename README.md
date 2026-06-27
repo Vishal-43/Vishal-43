@@ -31,13 +31,14 @@ dart,flutter,javascript,js,typescript,ts,python,py,html,css,nodejs,nextjs,vercel
    - Description: Smart attendance system (Flutter / Dart mobile/web app). 
    - Stars: ⭐ 1 · Watchers: 1 · Forks: 0 · Issues: 0
    - Language: Dart
-   - Live: https://smart-attendece-system-ashen.vercel.app
+   - Live: https://smart-attendece-system-ashen.vercel.app *(currently unvailable)*
 
 2. [Vyapar-ai](https://github.com/Vishal-43/Vyapar-ai) 💼
    - Description: Large JavaScript project (business/AI related frontend/backend). 
    - Stars: ⭐ 0 · Watchers: 0 · Forks: 0 · Issues: 0
    - Language: JavaScript
-   - Live: https://vyapar-ai-two.vercel.app
+   - Live: https://vyapar-ai-two.vercel.app *(currently unvailable)*
+   
 
 3. [SaaS-invoice](https://github.com/Vishal-43/SaaS-invoice) 🧾💻
    - Description: SaaS invoicing/product billing platform built with TypeScript. 
@@ -84,8 +85,7 @@ Feel free to explore my repositories and contributions — I'm active and welcom
 - GitHub: [Vishal-43](https://github.com/Vishal-43) 🔗
 - Instagram: [@l_e_g_e_n_d_43](https://www.instagram.com/l_e_g_e_n_d_43/profilecard/?igsh=MTI5ZWF0MnBhYXYxZw==) 📸
 - Portfolio & demos: https://VishalSodmise.vercel.app 🌐
-- Vyapar-ai demo: https://vyapar-ai-two.vercel.app
-- Smart Attendance demo: https://smart-attendece-system-ashen.vercel.app
+
 
 I'm open to collaborations, internships, and freelance work — feel free to reach out! ✉️ (vishalsodmise@gmail.com)
 
