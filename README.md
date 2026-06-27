@@ -94,22 +94,9 @@ If you'd like me to add LinkedIn or email, I can update the profile README with 
 
 ## Currently Working On / Learning
 
-Searching for new more innovative ideas. 
+Working one Project Life Cycle System for my collage. 
+
 
 Want to collaborate? Check my active repos or open an issue — I welcome suggestions and contributions! 🙌
 
-## Recent Activity
 
-
-Here are the latest pushes and updates from my GitHub activity feed:
-
-- Push to [Vishal-43/Vishal-43](https://github.com/Vishal-43/Vishal-43) — 2026-04-08T13:51:58Z (profile config updates)
-- Push to [Vishal-43/smart-attendece-system](https://github.com/Vishal-43/smart-attendece-system) — 2026-04-07T09:45:35Z
-- Push to [Vishal-43/smart-attendece-system](https://github.com/Vishal-43/smart-attendece-system) — 2026-04-07T06:34:22Z
-- Push to [Vishal-43/smart-attendece-system](https://github.com/Vishal-43/smart-attendece-system) — 2026-04-07T05:59:19Z
-- Push to [Vishal-43/smart-attendece-system](https://github.com/Vishal-43/smart-attendece-system) — 2026-04-02T12:35:05Z
-- Push to [Vishal-43/smart-attendece-system](https://github.com/Vishal-43/smart-attendece-system) — 2026-04-01T07:11:53Z
-- Push to [Vishal-43/smart-attendece-system](https://github.com/Vishal-43/smart-attendece-system) — 2026-03-27T08:13:50Z
-- Push to [Vishal-43/smart-attendece-system](https://github.com/Vishal-43/smart-attendece-system) — 2026-03-27T07:59:13Z
-
-Tip: For full activity details check the GitHub events on my profile. 🕵️‍♂️
